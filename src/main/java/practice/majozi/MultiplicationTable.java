@@ -10,6 +10,7 @@ public class MultiplicationTable {
     public static void main(String[] args){
 
         System.out.println(Arrays.deepToString(MultiplicationTable.multiplicationTable(3)));
+        System.out.println(Arrays.deepToString(MultiplicationTable.multiplicationTable(1)));
 
     }
 
